@@ -1,4 +1,4 @@
-# Swifty Robot environment
+# Bot on Swift
 Swift + Android build environment
 
 Swifty Robot environment is a set of tools created to reduce the entrance complexity to the Swift + Android world.
